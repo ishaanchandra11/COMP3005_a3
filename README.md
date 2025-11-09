@@ -1,3 +1,4 @@
+Video demo: https://youtu.be/c4vTGbtqwDE
 COMP3005 A3 – PostgreSQL CRUD (Python)
 
 This project uses PostgreSQL and a Python CLI to list, add, update by student_id, and delete by student_id.
